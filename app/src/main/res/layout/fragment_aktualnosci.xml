@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <View
+                android:layout_width="50dp"
+                android:layout_height="2dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="5dp"
+                android:text="AKTUALNOŚCI"
+                android:textAlignment="center"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/spotkanieImg"
+                android:layout_width="match_parent"
+                android:layout_height="330dp"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:paddingLeft="20dp"
+                android:paddingTop="30dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="20dp"
+                app:srcCompat="@drawable/spotkanie"
+                android:focusable="true" />
+
+            <TextView
+                android:id="@+id/spotkanieTxt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="onClick"
+                android:paddingBottom="20dp"
+                android:text="@string/spotkanie_underline"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+
+            <View
+                android:layout_width="50dp"
+                android:layout_height="2dp"
+                android:background="@android:color/darker_gray" />
+
+            <ImageView
+                android:id="@+id/babelkiImg"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="30dp"
+                android:paddingRight="20dp"
+                android:paddingBottom="20dp"
+                android:src="@drawable/babelki"
+                android:clickable="true"
+                android:onClick="onClick"
+                android:focusable="true" />
+
+            <TextView
+                android:id="@+id/babelkiTxt"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
+                android:onClick="onClick"
+                android:paddingBottom="20dp"
+                android:text="@string/babelki_underline"
+                android:textAlignment="center"
+                android:textSize="24sp" />
+
+            <View
+                android:layout_width="50dp"
+                android:layout_height="2dp"
+                android:background="@android:color/darker_gray" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+    </ScrollView>

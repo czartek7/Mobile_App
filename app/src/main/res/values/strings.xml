@@ -1,0 +1,34 @@
+<resources>
+    <string name="google_maps_key">AIzaSyA7ZZuUHbzL3q77yd6wpQubDiNIkh2FQ2I</string>
+    
+    <string name="app_name">Dwa przez cztery wine bar</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque pulvinar pellentesque habitant morbi tristique. Erat nam at lectus urna. Lorem donec massa sapien faucibus et molestie. Eget magna fermentum iaculis eu non. A diam maecenas sed enim ut sem viverra aliquet. Lectus mauris ultrices eros in cursus turpis massa tincidunt. Ullamcorper eget nulla facilisi etiam. Scelerisque viverra mauris in aliquam sem fringilla ut. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Gravida dictum fusce ut placerat. Aenean et tortor at risus viverra adipiscing at in tellus. Nunc sed blandit libero volutpat sed. Cursus mattis molestie a iaculis at erat pellentesque. Sit amet nulla facilisi morbi tempus. Adipiscing vitae proin sagittis nisl. Orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Pretium viverra suspendisse potenti nullam ac tortor. Tincidunt eget nullam non nisi est sit amet facilisis.</string>
+    <string name="godziny_otwarcia">Otwarte w godzinach:\npon.:	Zamknięte\nwt.:	13:00–22:00\nśr.:	13:00–22:00\nczw.:	13:00–22:00\npt.:	13:00–23:45\nsob.:	13:00–23:45\nniedz.:	13:00–19:00</string>
+
+    <string name="adres">Adres:\nPiotrkowska 144\n90-062 Łódź\nPolska</string>
+
+    <string name="info">Winiarnia w: Łódź</string>
+
+    <string name="spotkanie_underline"><u>Europa na winnych szlakach - spotkanie autorskie</u></string>
+    <string name="spotkanie">Europa na winnych szlakach - spotkanie autorskie</string>
+
+    <string name="babelki_underline"><u>Pijmy włoskie bąbelki // vol.2</u></string>
+    <string name="babelki">Pijmy włoskie bąbelki // vol.2</string>
+
+    <string name="akt1">Nowy rok rozpoczniemy od spotkania autorskiego z Tomaszem Prange-Barczyńskim, znanym dziennikarzem i krytykiem winiarskim, który wydał niedawno książkę “Europa na winnych szlakach”. Tomasz w swojej najnowszej lekturze zabiera czytelników w podróż po winnicach Europy. Odwiedza zarówno miejsca znane, takie jak Tokaj czy Toskania, jak i te mniej popularne, jak Carnuntum i Lavaux. Pokazuje winiarzy i winnice w kontekście kultury i historii poszczególnych regionów. Szlak jego podróży wiedzie przez trzynaście europejskich krajów aż do… Polski! Marek Kondrat mówi, że “Tomek wie o winie wszystko. Pisze o nim tak, jak lubię. Kojarzy je z ludźmi, którzy je tworzą, i miejscem, z którego pochodzi. Jego opowieści sprawiają, że chce się tam być. I że chce się żyć niepośpiesznie i zmysłowo.”\n\nWstęp na spotkanie wolny, będzie istniała możliwość zakupu książek.\nZapiszcie w kalendarzach: 8 stycznia, środa, godz. 18:00.\n\nDo zobaczenia w Dwa przez cztery!</string>
+
+    <string name="akt2">Bąbelków nigdy za wiele! Zdecydowanie wierzymy, że bardziej od niemożności pozbierania się do kupy po ostatniej edycji - oczekujecie kolejnej. Wychodząc naprzeciw waszym oczekiwaniom, szykujemy drugie Bubble Night w naszym wine barze. Cała moc trunków wzbogaconych o dwutlenek węgla wprowadzi was w wybuchowy klimat!\n\nBeppe Andreoni, który poprowadzi degustację, to pasjonat z przyjemnością dzielący się wiedzą ze wszystkimi, którzy lubią poznawać włoską kulturę i smaki. W Łodzi prowadzi firmę Winiamo zajmującą się dystrybucją wina. Podobnie jak my, nie wyobraża sobie sprzedawania wina bez wcześniejszego poznania osoby i jego winnych preferencji. Zawsze podkreśla, że najważniejsze są emocje i pasja łączące producenta, dystrybutora, właściciela sklepu czy restauracji i wreszcie konsumenta, który wino otwiera i smakuje.\n\nLista win?\nBędzie tego dużo!\nOd Pignoletto po Franciacorte. To wy będziecie wybierać preferowaną kolejność w zależności od tego na co macie ochotę.\n\nKiedy? 7 (środa) i 23 (piątek) sierpnia 2019 r., g. 18.30\nGdzie? Dwa Przez Cztery, Piotrkowska 144\nZa ile? 55 zł/os.\nJak zarezerwować?* Dzwońcie: 662 440 080 lub piszcie w wiadomościach prywatnych.\nPłacić można w lokalu lub przelewem na konto PKO BP SA\nnumer: 03 1020 3352 0000 1902 0159 6501\nW tytule przelewu prosimy o wpisanie:\n" 2/4, 07.08.19 " bądź " 2/4, 23.08.19 "</string>
+
+    <string name="opinia1">\"gdyby ktoś przyłożył mi pistolet do skroni i kazał zrezygnować z odwiedzania dwaprzezcztery, najprawdopodobniej kazałbym strzelać bez ostrzeżenia. Jest to miejsce magiczne, ale jednocześnie bardzo proste. Nie ma tutaj niewiadomo jakich fajerwerków, ale to sprawia, że ten czar nie jest ulotny, jak zapach tanich perfum. Profesjonalna obsługa i indywidualne podejście do potrzeb klienta stoi tutaj na najwyższym poziomie. Pracuję przy barze i jak ktoś chce napić się u mnie „dobrego” wina odsyłam go właśnie w to miejsce. Daje 5 gwiazdek i ogromne serducho dla całej ekipy dwaprzezcztery i affogato, robicie świetną robotę oby tak dalej!\"</string>
+
+    <string name="opinia2">\"Fajne miejsce, dobre wino i klimat.\"</string>
+
+    <string name="opinia3">\"Bardzo duży wybór win, miła, profesjonalna obsługa, znająca się na rzeczy. Dodatkowo fajny i romantyczny klimat sprawiają, że to bardzo dobre miejsce na randkę.\"</string>
+
+    <string name="nasza_misja">Wielowymiarowość…\nbo każde wino kryje w sobie indywidualny \„kod genetyczny\”, smak okolicznego słońca, nastrój winnicy, koloryt i usposobienie otoczenia, tego roślinnego i ludzkiego.\n\nIntencja…\nbo świat winorośli nieustannie obfituje w nowe zbiory i doświadczenia dopasowując się do warunków otoczenia, bo wino pozwala się odkrywać w nowych odsłonach i połączeniach sztuki kulinarnej, bo zmieniają się oczekiwania odbiorców, bo nauka o winie jest ekscytująco wielowarstwowa i w każdej odkrywanej barwie mocno aromatyczna.\n\nOkoliczność…\nbo wino potrafi wkomponować się w nieformalne spotkanie, wydarzenia rodzinne, relacje biznesowe, codzienny wieczór w duecie i bal na sto par.\n\nBędzie nam przyjemnie dzielić się z Wami naszą fascynacją winnego świata, starego nowego i tego tu łódzko-lokalnego :)\n\n\nfacebook @dwaprzezcztery\ninstagram @dwa.przez.cztery.wine</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
